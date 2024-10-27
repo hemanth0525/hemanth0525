@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 <h1>Contributors' Wall</h1>
-<img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=34bdb1e6-7e79-4620-a254-42e55d289f81" />
+<a href="https://github.com/github/gitignore/graphs/contributors">
+  <img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=fc4f2b4e-e6f5-46e6-a5ff-2b00fb6fd2f3" alt="Contributors' Wall for github/gitignore" />
+</a>
+Make your Contributors' Wall with <a href="https://contri.buzz/">Contri.Buzz</a>
 <!--
 **hemanth0525/hemanth0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
