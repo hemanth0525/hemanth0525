@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/github/gitignore/graphs/contributors">
-    <img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=fc4f2b4e-e6f5-46e6-a5ff-2b00fb6fd2f3" alt="Contributors' Wall for github/gitignore" width="80%">
+    <img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=fc4f2b4e-e6f5-46e6-a5ff-2b00fb6fd2f3" alt="Contributors' Wall for github/gitignore" />
   </a>
 </p>
 
