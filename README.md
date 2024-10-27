@@ -4,7 +4,7 @@
 <a href="https://github.com/github/gitignore/graphs/contributors">
   <img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=fc4f2b4e-e6f5-46e6-a5ff-2b00fb6fd2f3" alt="Contributors' Wall for github/gitignore" style="display: block; margin: 20px auto; max-width: 100%;">
 </a>
-<p style="text-align: center; align-items: center; color: #ffffff; background-color: #0d1117;">
+<p style="text-align: center; justify-items: center; align-items: center; color: #ffffff; background-color: #0d1117;">
   Make your Contributors' Wall with <a href="https://contri.buzz/" style="color: #58a6ff; text-decoration: none;">Contri.Buzz</a>
 </p>
 
