@@ -1,9 +1,6 @@
 ## Hi there 👋
 
 <h1>Contributors' Wall</h1>
-
-
-## Contributors' Wall
 <img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=34bdb1e6-7e79-4620-a254-42e55d289f81" />
 <!--
 **hemanth0525/hemanth0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
