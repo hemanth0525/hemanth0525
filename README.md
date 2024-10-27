@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Contributors' Wall</h1>
+<h1 align="center" color="darkblue">Contributors' Wall</h1>
 
 <p align="center">
   <a href="https://github.com/github/gitignore/graphs/contributors">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Make your Contributors' Wall with <a href="https://contri.buzz/">Contri.Buzz</a>
+  Make your Contributors' Wall with <a href="https://contri.buzz/"><i>Contri.Buzz</i></a>
 </p>
 
 
