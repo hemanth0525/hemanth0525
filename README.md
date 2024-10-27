@@ -4,7 +4,7 @@
 
 
 ## Contributors' Wall
-<img src="gs://contribuzz.appspot.com/walls/golang-go.png" />
+<img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgolang-go.png?alt=media&token=507b9016-a8ff-4f04-b066-45664920b749" />
 <!--
 **hemanth0525/hemanth0525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
