@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center" color="darkblue">Contributors' Wall</h1>
+<h1 align="center">Contributors' Wall</h1>
 
 <p align="center">
   <a href="https://github.com/github/gitignore/graphs/contributors">
