@@ -46,7 +46,7 @@ Happy coding! 🚀
 <h1 align="center">Contributors' Wall</h1>
 
   <a href="https://github.com/github/gitignore/graphs/contributors">
-    <img src="https://github.com/hemanth0525/contribuzz/blob/main/public/walls/github-gitignore.png" alt="Contributors' Wall for github/gitignore" />
+    <img src="https://github.com/hemanth0525/contribuzz/blob/main/public/walls/microsoft-FLAML.png" alt="Contributors' Wall for github/gitignore" />
   </a>
 
 <p align="center">
