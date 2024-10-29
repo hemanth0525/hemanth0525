@@ -47,7 +47,7 @@ Happy coding! 🚀
 
 <p align="center">
   <a href="https://github.com/github/gitignore/graphs/contributors">
-    <img src="https://firebasestorage.googleapis.com/v0/b/contribuzz.appspot.com/o/walls%2Fgithub-gitignore.png?alt=media&token=c23a601a-e8e8-46df-b986-0ea16ff80398" alt="Contributors' Wall for github/gitignore" />
+    <img src="https://github.com/hemanth0525/contribuzz/blob/main/public/walls/github-gitignore.png" alt="Contributors' Wall for github/gitignore" />
   </a>
 </p>
 
