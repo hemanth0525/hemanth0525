@@ -45,11 +45,9 @@ Happy coding! 🚀
 
 <h1 align="center">Contributors' Wall</h1>
 
-<p align="center">
   <a href="https://github.com/github/gitignore/graphs/contributors">
     <img src="https://github.com/hemanth0525/contribuzz/blob/main/public/walls/github-gitignore.png" alt="Contributors' Wall for github/gitignore" />
   </a>
-</p>
 
 <p align="center">
   Make your Contributors' Wall with <a href="https://contri.buzz/"><i>Contri.Buzz</i></a>
