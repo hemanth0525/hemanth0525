@@ -4,6 +4,7 @@ Working on projects like:
 - [**MoodMix.live**](https://moodmix.live) – Listen to your mood. 🎶
 - [**Flyra.link**](https://flyra.link) – Link for any need. 🔗
 - [**Contri.buzz**](https://contri.buzz) – Celebrate your open source contributors. 🤝
+- [**GPTz.directory**](https://gptz.directory) – Explore the AI Universe. Find the right AI tool for your need. ✨🤖
 - [**Currenxrate.online**](https://currenxrate.online) (coming soon) – Precision Currency Exchange. 💱  
 - [**ShopAnywhere.xyz**](https://shopanywhere.xyz) (in progress) – Universal Product Search Engine. 🛒
 
